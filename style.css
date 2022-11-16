@@ -17,13 +17,14 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #7dfb00; 
-	background: rgb(255, 0, 0) url(https://media.tenor.com/ZvDewenXI84AAAAC/llama-mirada.gif) no-repeat bottom right; 
+	background: rgb(255, 0, 0) url(https://media.tenor.com/ZvDewenXI84AAAAC/llama-mirada.gif) ; 
+	background-repeat: repeat-x;
 	margin: 0; 
 	padding: 0;
 	}
 p { 
 	margin-top: 0; 
-	text-align: justify;
+	text-align: right;
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
