@@ -16,8 +16,8 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	color: #7dfb00; 
+	background: rgb(255, 0, 0) url(https://media.tenor.com/ZvDewenXI84AAAAC/llama-mirada.gif) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -52,7 +52,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	background: url(ezgif.com-gif-maker.gif)
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
